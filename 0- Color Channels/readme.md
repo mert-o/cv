@@ -1,3 +1,3 @@
 Separating images to its color channels.
 
-![](img.jpg)
+![](img.jpg | width=100)
