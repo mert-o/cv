@@ -1,5 +1,4 @@
 Separating images to its color channels.
 
-![](img.jpg | width=100)
-
-<img src="img.jpg" width="48">
+<img src="img.jpg" width="250" height="250">
+<img src="red.jpg" width="250" height="250">
